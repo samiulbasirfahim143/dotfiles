@@ -1,0 +1,6 @@
+require('settings')
+require('packer-config')
+require('colorschemes-config.nightfox')
+require('nvim-tree-config')
+require('treesitter')
+-- require('telescope')
